@@ -18,7 +18,7 @@ Sambotto is a simple tutorial-styled slack bot that uses Slack's [RTM](https://a
 4. Create a virtualenv `python3 -m venv .env`
 5. Activate the virtualenv `source .env/bin/activate` and install the dependencies `python3 -m pip install -r requirements.txt`
 
-### Usage
+## Usage
 
 From your terminal, simply run `python3 slackbot.py` and interact with the bot in the channel you've invited it to!
 
