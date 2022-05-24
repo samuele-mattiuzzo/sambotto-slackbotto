@@ -16,7 +16,8 @@ Sambotto is a simple tutorial-styled slack bot that uses Slack's [RTM](https://a
 2. Clone this repository `git clone https://github.com/samuele-mattiuzzo/sambotto-slackbotto.git` and cd into the new directory
 3. Copy `config.ini.example` to `config.ini` and copy the APP's BOT_TOKEN (without double-quotes)
 4. Create a virtualenv `python3 -m venv .env`
-5. Activate the virtualenv `source .env/bin/activate` and install the dependencies `python3 -m pip install -r requirements.txt`
+5. Activate the virtualenv `source .env/bin/activate`
+6. Install the dependencies `python3 -m pip install -r requirements.txt`
 
 ## Usage
 
